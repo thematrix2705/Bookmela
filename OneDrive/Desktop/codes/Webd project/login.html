@@ -49,13 +49,26 @@
         const registerbtn = document.querySelector(".registerbtn");
         const loginbtn = document.querySelector(".loginbtn");
 
+        const link = document.createElement("a");
+        link.href = "Index.html";
+
+
+        
+
+        
         registerbtn.addEventListener("click", function () {
             container.classList.add("active");
+            registerbtn.append(link);
         });
 
         loginbtn.addEventListener("click", function () {
             container.classList.remove("active");
+            registerbtn.append(link);
+
         });
+
+        
+
     </script>
     </body>
 </html>

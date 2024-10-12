@@ -16,6 +16,8 @@
 .logo{
     display: flex;
     align-items: center;
+    font-family: "poppins" , sans-serif;
+    letter-spacing: 1.2px;
 }
 .logo img{
     height: 100%;
