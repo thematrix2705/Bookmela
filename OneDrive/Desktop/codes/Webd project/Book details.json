@@ -1,309 +1,6 @@
 
 {
-"Sheet1":[
- null,
- {
-  "No.": 1,
-  "Book name": "The Women",
-  "images": "the woman.jpg",
-  "Author name": "Kristin Hannah",
-  "Publisher": "St. Martin's press",
-  "Publication year": 2024,
-  "Number of pages": 432,
-  "ISB No.": "978-0593653976",
-  "Price (in rupees)": 1500,
-  "Details about containt of book": "A poignant novel about a combat nurse in vietnam facing the chasing  of war and society's indifference upon her return home."
- },
- {
-  "No.": 2,
-  "Book name": "All the worst humans",
-  "images": "all the worst humans.jpg",
-  "Author name": "Phil Elwood",
-  "Publisher": "Harpercollins",
-  "Publication year": 2024,
-  "Number of pages": 320,
-  "ISB No.": "978-0593652542",
-  "Price (in rupees)": 1200,
-  "Details about containt of book": "A memoir that unveils the dark underbelly of power,politics and manipulation from a former PR hitman."
- },
- {
-  "No.": 3,
-  "Book name": "The Ministry of time ",
-  "images": "the ministry of time.jpg",
-  "Author name": "Kaliane Bradley",
-  "Publisher": "Penguin Random house",
-  "Publication year": 2024,
-  "Number of pages": 368,
-  "ISB No.": "978-0593652535",
-  "Price (in rupees)": 1400,
-  "Details about containt of book": "A unique blend of time travel,espionage and romance,as a civil servant grappless with the implications of changing history."
- },
- {
-  "No.": 4,
-  "Book name": "Martyr!",
-  "images": "martyr.jpg",
-  "Author name": "Kaveh Akbar",
-  "Publisher": "Knopf",
-  "Publication year": 2024,
-  "Number of pages": 368,
-  "ISB No.": "978-0593653495",
-  "Price (in rupees)": 1400,
-  "Details about containt of book": "The story of cyrus shams,navigation life after personal tragedy while exploring themes of identity and value"
- },
- {
-  "No.": 5,
-  "Book name": "Nuclear War",
-  "images": "nuclear war.jpg",
-  "Author name": "Annie Jacobsen",
-  "Publisher": "Little,Brown and Company",
-  "Publication year": 2024,
-  "Number of pages": 336,
-  "ISB No.": "978-0593654003",
-  "Price (in rupees)": 1300,
-  "Details about containt of book": "A chilling narrative that explores the potential aftermath of a nuclear strike blending real-life interviews with historical insights."
- },
- {
-  "No.": 6,
-  "Book name": "All the colors of the dark",
-  "images": "ALL THE COLOURS OF THE DARK.jpg",
-  "Author name": "Chris Whitaker",
-  "Publisher": "Henry Holt and Co.",
-  "Publication year": 2024,
-  "Number of pages": 320,
-  "ISB No.": "978-0593653112",
-  "Price (in rupees)": 1200,
-  "Details about containt of book": "A gripping story of friendship and mystery that begins with a kidnapping,filled with emotional depth and vivid storytellin."
- },
- {
-  "No.": 7,
-  "Book name": "Lies and weddings",
-  "images": "LIES AND WEDDINGS.jpg",
-  "Author name": "Kevin Kwan",
-  "Publisher": "Doubleday",
-  "Publication year": 2024,
-  "Number of pages": 400,
-  "ISB No.": "978-0593653266",
-  "Price (in rupees)": 1600,
-  "Details about containt of book": "A humorous and lavish tale of family drama set against the backdrop of an extravagant wedding."
- },
- {
-  "No.": 8,
-  "Book name": "Lost Man's Lane",
-  "images": "LOST MAN'S LANE.jpg",
-  "Author name": "Scott carson ",
-  "Publisher": "Dutton ",
-  "Publication year": 2024,
-  "Number of pages": 320,
-  "ISB No.": "978-0593652900",
-  "Price (in rupees)": 1200,
-  "Details about containt of book": "A horror-infused coming-of-age story that captures the essence of teenage angst and the supernatural."
- },
- {
-  "No.": 9,
-  "Book name": "This Could be us ",
-  "images": "THIS COULD BE US.jpg",
-  "Author name": "Kennedy Ryan",
-  "Publisher": "Forever",
-  "Publication year": 2024,
-  "Number of pages": 400,
-  "ISB No.": "978-0593652979",
-  "Price (in rupees)": 1500,
-  "Details about containt of book": "An exploration of life's complexities,covering themes like divorce and self-discovery in a relatable narrative."
- },
- {
-  "No.": 10,
-  "Book name": "I Cheerfully Refuse",
-  "images": "I CHEERFULLYREFUSE.jpg",
-  "Author name": "Leif Engel",
-  "Publisher": "Grove press",
-  "Publication year": 2024,
-  "Number of pages": 272,
-  "ISB No.": "978-0593653118",
-  "Price (in rupees)": 1100,
-  "Details about containt of book": "A beautifully crafted tale and the transformative power of love through the lens of language."
- },
- {
-  "No.": 11,
-  "Book name": "Narcotopic",
-  "images": "NARCOTOPIA.jpg",
-  "Author name": "Patrick Winn",
-  "Publisher": "Houghton mifflin harcourt",
-  "Publication year": 2024,
-  "Number of pages": 320,
-  "ISB No.": "978-0593653095",
-  "Price (in rupees)": 1500,
-  "Details about containt of book": "A deep dive into the world of drug trafficking in asia,revealing shocking truths through investigative journalism."
- },
- {
-  "No.": 12,
-  "Book name": "Margo's Got Money Troubles",
-  "images": "MARGOS GOT MONEY TROUBLES.jpg",
-  "Author name": "Rufi Thorpe",
-  "Publisher": "Knopf",
-  "Publication year": 2024,
-  "Number of pages": 304,
-  "ISB No.": "978-0593653859",
-  "Price (in rupees)": 1300,
-  "Details about containt of book": "A tale of unexpected pregnancy and the lengths a woman will go to achieve independence in a changing world."
- },
- {
-  "No.": 13,
-  "Book name": "Skin & Bones",
-  "images": "SKIN AND BONES.jpg",
-  "Author name": "Renee Watson",
-  "Publisher": "Bloomsbury",
-  "Publication year": 2024,
-  "Number of pages": 256,
-  "ISB No.": "978-0593653316",
-  "Price (in rupees)": 1200,
-  "Details about containt of book": "A poetic exploration of love and identity through the eyes of a women facing a pivotal moment on her wedding day."
- },
- {
-  "No.": 14,
-  "Book name": "The Familiar",
-  "images": "THE FAMILIAR.jpg",
-  "Author name": "Leigh Bardugo",
-  "Publisher": "Flatiro Books",
-  "Publication year": 2024,
-  "Number of pages": 368,
-  "ISB No.": "978-0593653880",
-  "Price (in rupees)": 1400,
-  "Details about containt of book": "A compelling narrative that weaves magic and history into a modern tale,captivating from the first page."
- },
- {
-  "No.": 15,
-  "Book name": "Table For Two",
-  "images": "TABLE FOR TWO.jpg",
-  "Author name": "Amor Towles",
-  "Publisher": "Viking",
-  "Publication year": 2024,
-  "Number of pages": 368,
-  "ISB No.": "978-0593652852",
-  "Price (in rupees)": 1300,
-  "Details about containt of book": "A collection of stories that blend personal reflections and the allure of the golden age of Hollywood."
- },
- {
-  "No.": 16,
-  "Book name": "Fire Exit ",
-  "images": "FIRE EXIT.jpg",
-  "Author name": "Morgan Talty ",
-  "Publisher": "Harper",
-  "Publication year": 2024,
-  "Number of pages": 400,
-  "ISB No.": "978-0593652845",
-  "Price (in rupees)": 1400,
-  "Details about containt of book": "A powerful narrative about community and personal identity,exploring the complex relationships of a group of friends."
- },
- {
-  "No.": 17,
-  "Book name": "The starling House",
-  "images": "STARLING HOUSE.jpg",
-  "Author name": "Alix E. Harrow",
-  "Publisher": "Orbit",
-  "Publication year": 2024,
-  "Number of pages": 352,
-  "ISB No.": "978-0593652920",
-  "Price (in rupees)": 1500,
-  "Details about containt of book": "A gothic tale that blends elements of fantasy and reality,exploring themes of home and belonging."
- },
- {
-  "No.": 18,
-  "Book name": "The Goldfinch ",
-  "images": "THE GOLDFINCH.jpg",
-  "Author name": "Donna Tartt",
-  "Publisher": "Little,Brown and Company",
-  "Publication year": 2013,
-  "Number of pages": 771,
-  "ISB No.": "978-0316055444",
-  "Price (in rupees)": 1800,
-  "Details about containt of book": "A pulitzer prize-winning novel about a boy whose life is turned upside down after a tragedy at an art museum."
- },
- {
-  "No.": 19,
-  "Book name": "Circe",
-  "images": "circle MADELINE MILLER.jpg",
-  "Author name": "madeline miller",
-  "Publisher": "Little,Brown and Company",
-  "Publication year": 2018,
-  "Number of pages": 400,
-  "ISB No.": "978-0316334338",
-  "Price (in rupees)": 1400,
-  "Details about containt of book": "A modern retelling of the life of circe,the daughter of helios,exploring themes of power,isolation and self-discovery."
- },
- {
-  "No.": 20,
-  "Book name": "Where the Crawdads Sing",
-  "images": "WHERE THE CRAWDADS SING.jpg",
-  "Author name": "Delia Owens",
-  "Publisher": "G.P.Putnam's sons",
-  "Publication year": 2018,
-  "Number of pages": 368,
-  "ISB No.": "978-0735219090",
-  "Price (in rupees)": 1300,
-  "Details about containt of book": "A compelling blend of murder mystery and coming-of-age story set against the backdrop of  north caroline marshes."
- },
- {
-  "No.": 21,
-  "Book name": "Happy Place",
-  "images": "HAPPY PLACE.jpg",
-  "Author name": "Emily Henry ",
-  "Publisher": "Berkley",
-  "Publication year": 2023,
-  "Number of pages": 368,
-  "ISB No.": "978-0593539745",
-  "Price (in rupees)": 1299,
-  "Details about containt of book": "This romantic comedy follows a couple who pretend to still be together for their friend's sake during a vacation,exploring themes of love ,friendship,and self-discovery."
- },
- {
-  "No.": 22,
-  "Book name": "Fourth Wing ",
-  "images": "FOURTH WING.jpg",
-  "Author name": "Rebecca Yarros",
-  "Publisher": "Red Tower ",
-  "Publication year": 2023,
-  "Number of pages": 528,
-  "ISB No.": "978-1685620213",
-  "Price (in rupees)": 1599,
-  "Details about containt of book": "In this fantasy novel,a young woman enrolls in a war college where dragon riders are trained,facing both danger and her own identity in a world of magic and conflict."
- },
- {
-  "No.": 23,
-  "Book name": "Lessons in chemistry",
-  "images": "LESSONS IN CHEM.jpg",
-  "Author name": "Bonnie Garmus ",
-  "Publisher": "Doubleday",
-  "Publication year": 2022,
-  "Number of pages": 400,
-  "ISB No.": "978-5093532021",
-  "Price (in rupees)": 1499,
-  "Details about containt of book": "Set in the 1960s, this novel tells the story of a female chemist who becomes an unlikely television cooking show host,challenging societal norms and inspiring womwn alng the way."
- },
- {
-  "No.": 24,
-  "Book name": "Tomorrow,and Tomorrow,and tomorrow",
-  "images": "TOMORROW AND TOMORROW.jpg",
-  "Author name": "Gabrielle zevin",
-  "Publisher": "Knopf",
-  "Publication year": 2022,
-  "Number of pages": 416,
-  "ISB No.": "978-0593653963",
-  "Price (in rupees)": 1299,
-  "Details about containt of book": "This literary fiction explores the friendship and colleboratin of two game developers over decades,delving into themes of creativity,love ,and the passage of time."
- },
- {
-  "No.": 25,
-  "Book name": "The seven Husbands of Evelyn Hugo",
-  "images": "SEVEN HUSBANDS OF EVELYN HUGO.jpg",
-  "Author name": "Taylor jenkins reid",
-  "Publisher": "Atria Books",
-  "Publication year": 2017,
-  "Number of pages": 400,
-  "ISB No.": "978-1501139239",
-  "Price (in rupees)": 1299,
-  "Details about containt of book": "A istorical fiction novel about a reclusive hollywood star who shares her glamorous and tumultuous life story with a young journalist,highlighting themes of identity,love and ambition"
- }
-],
-"Sheet2":[
+"ProductDetails":
  [{
   "Name": "The Women",
   "images": "the woman.jpg",
@@ -373,8 +70,8 @@
   "Price (in rupees)": 1200,
   "Details about containt of book": "A gripping story of friendship and mystery that begins with a kidnapping,filled with emotional depth and vivid storytellin.",
   "JSON": "\"Name\":\"All the colors of the dark\","
- }],
- [{
+ },
+ {
   "Name": "Lies and weddings",
   "images": "LIES AND WEDDINGS.jpg",
   "Author name": "Kevin Kwan",
@@ -433,8 +130,8 @@
   "Price (in rupees)": 1500,
   "Details about containt of book": "A deep dive into the world of drug trafficking in asia,revealing shocking truths through investigative journalism.",
   "JSON": "\"Name\":\"Narcotopic\","
- }],
- [{
+ },
+  {
   "Name": "Margo's Got Money Troubles",
   "images": "MARGOS GOT MONEY TROUBLES.jpg",
   "Author name": "Rufi Thorpe",
@@ -542,7 +239,7 @@
   "Details about containt of book": "A compelling blend of murder mystery and coming-of-age story set against the backdrop of  north caroline marshes.",
   "JSON": "\"Name\":\"Where the Crawdads Sing\","
  }],
- [{
+{
   "Name": "Happy Place",
   "images": "HAPPY PLACE.jpg",
   "Author name": "Emily Henry ",
@@ -600,5 +297,4 @@
   "Price (in rupees)": 1299,
   "Details about containt of book": "A istorical fiction novel about a reclusive hollywood star who shares her glamorous and tumultuous life story with a young journalist,highlighting themes of identity,love and ambition"
  }
-]
 }
