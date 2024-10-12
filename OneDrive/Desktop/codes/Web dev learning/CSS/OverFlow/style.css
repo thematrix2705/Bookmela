@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Title h1{
+    font-weight: 700;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.overflow-div{
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    border: 10px solid black;
+   overflow-y: scroll;
+
+}
+

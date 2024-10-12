@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: grey;
+    color: rgb(231, 160, 37);
+}
+
+.navbar{
+   display: flex;
+   justify-content: flex-end;
+   background-color:rgb(41, 41,41);
+}
+
+li{
+    list-style-type: none;
+    margin: 8px 15px;
+    font-size: 20px;
+    padding: 4px 12px;
+    background-color:rgb(41, 41,41);
+    border: 5px solid rgb(41, 41,41);
+    box-shadow: 0px 0px 5px rgb(84, 78, 78);
+    border-radius: 5px;
+    
+}

@@ -76,8 +76,7 @@ blending real-life interviews with historical insights."
         "Details about containt of book": "A gripping story of friendship and mystery that begins with a kidnapping,filled with
 emotional depth and vivid storytellin."
     },
-    {
-        "No.": 7,
+   [ {
         "Book name": "Lies and weddings",
         "images": "LIES AND WEDDINGS.jpg",
         "Author name": "Kevin Kwan",
@@ -90,7 +89,6 @@ emotional depth and vivid storytellin."
 wedding."
     },
     {
-        "No.": 8,
         "Book name": "Lost Man's Lane",
         "images": "LOST MAN'S LANE.jpg",
         "Author name": "Scott carson ",
@@ -103,7 +101,6 @@ wedding."
 the supernatural."
     },
     {
-        "No.": 9,
         "Book name": "This Could be us ",
         "images": "THIS COULD BE US.jpg",
         "Author name": "Kennedy Ryan",
@@ -116,7 +113,6 @@ the supernatural."
 in a relatable narrative."
     },
     {
-        "No.": 10,
         "Book name": "I Cheerfully Refuse",
         "images": "I CHEERFULLYREFUSE.jpg",
         "Author name": "Leif Engel",
@@ -129,7 +125,6 @@ in a relatable narrative."
 language."
     },
     {
-        "No.": 11,
         "Book name": "Narcotopic",
         "images": "NARCOTOPIA.jpg",
         "Author name": "Patrick Winn",
@@ -142,7 +137,6 @@ language."
 through investigative journalism."
     },
     {
-        "No.": 12,
         "Book name": "Margo's Got Money Troubles",
         "images": "MARGOS GOT MONEY TROUBLES.jpg",
         "Author name": "Rufi Thorpe",
@@ -153,9 +147,8 @@ through investigative journalism."
         "Price (in rupees)": 1300,
         "Details about containt of book": "A tale of unexpected pregnancy and the lengths a woman will go to achieve
 independence in a changing world."
-    },
-    {
-        "No.": 13,
+    }],
+    [{
         "Book name": "Skin & Bones",
         "images": "SKIN AND BONES.jpg",
         "Author name": "Renee Watson",
@@ -168,7 +161,6 @@ independence in a changing world."
 pivotal moment on her wedding day."
     },
     {
-        "No.": 14,
         "Book name": "The Familiar",
         "images": "THE FAMILIAR.jpg",
         "Author name": "Leigh Bardugo",
@@ -181,7 +173,6 @@ pivotal moment on her wedding day."
 from the first page."
     },
     {
-        "No.": 15,
         "Book name": "Table For Two",
         "images": "TABLE FOR TWO.jpg",
         "Author name": "Amor Towles",
@@ -194,7 +185,6 @@ from the first page."
 age of Hollywood."
     },
     {
-        "No.": 16,
         "Book name": "Fire Exit ",
         "images": "FIRE EXIT.jpg",
         "Author name": "Morgan Talty ",
@@ -207,7 +197,6 @@ age of Hollywood."
 relationships of a group of friends."
     },
     {
-        "No.": 17,
         "Book name": "The starling House",
         "images": "STARLING HOUSE.jpg",
         "Author name": "Alix E. Harrow",
@@ -220,7 +209,6 @@ relationships of a group of friends."
 and belonging."
     },
     {
-        "No.": 18,
         "Book name": "The Goldfinch ",
         "images": "THE GOLDFINCH.jpg",
         "Author name": "Donna Tartt",
@@ -231,9 +219,8 @@ and belonging."
         "Price (in rupees)": 1800,
         "Details about containt of book": "A pulitzer prize-winning novel about a boy whose life is turned upside down after a
 tragedy at an art museum."
-    },
-    {
-        "No.": 19,
+    }],
+    [{
         "Book name": "Circe",
         "images": "circle MADELINE MILLER.jpg",
         "Author name": "madeline miller",
@@ -246,7 +233,6 @@ tragedy at an art museum."
 power,isolation and self-discovery."
     },
     {
-        "No.": 20,
         "Book name": "Where the Crawdads Sing",
         "images": "WHERE THE CRAWDADS SING.jpg",
         "Author name": "Delia Owens",
@@ -259,7 +245,6 @@ power,isolation and self-discovery."
 of north caroline marshes."
     },
     {
-        "No.": 21,
         "Book name": "Happy Place",
         "images": "HAPPY PLACE.jpg",
         "Author name": "Emily Henry ",
@@ -272,7 +257,6 @@ of north caroline marshes."
 friend's sake during a vacation,exploring themes of love ,friendship,and self-discovery."
     },
     {
-        "No.": 22,
         "Book name": "Fourth Wing ",
         "images": "FOURTH WING.jpg",
         "Author name": "Rebecca Yarros",
@@ -285,7 +269,6 @@ friend's sake during a vacation,exploring themes of love ,friendship,and self-di
 trained,facing both danger and her own identity in a world of magic and conflict."
     },
     {
-        "No.": 23,
         "Book name": "Lessons in chemistry",
         "images": "LESSONS IN CHEM.jpg",
         "Author name": "Bonnie Garmus ",
@@ -298,7 +281,6 @@ trained,facing both danger and her own identity in a world of magic and conflict
 unlikely television cooking show host,challenging societal norms and inspiring womwn alng the way."
     },
     {
-        "No.": 24,
         "Book name": "Tomorrow,and Tomorrow,and tomorrow",
         "images": "TOMORROW AND TOMORROW.jpg",
         "Author name": "Gabrielle zevin",
@@ -311,7 +293,6 @@ unlikely television cooking show host,challenging societal norms and inspiring w
 over decades,delving into themes of creativity,love ,and the passage of time."
     },
     {
-        "No.": 25,
         "Book name": "The seven Husbands of Evelyn Hugo",
         "images": "SEVEN HUSBANDS OF EVELYN HUGO.jpg",
         "Author name": "Taylor jenkins reid",
@@ -322,6 +303,6 @@ over decades,delving into themes of creativity,love ,and the passage of time."
         "Price (in rupees)": 1299,
         "Details about containt of book": "A istorical fiction novel about a reclusive hollywood star who shares her glamorous
 and tumultuous life story with a young journalist,highlighting themes of identity,love and ambition"
-    }
+    }]
 
 }

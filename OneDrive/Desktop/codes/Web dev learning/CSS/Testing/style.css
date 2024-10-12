@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Lilita+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Red+Rose:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+.container-1{
+    height: 100vh;
+    max-width: 1320px;
+    padding: 64px 5px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+.grid{
+    display: grid;
+    align-items: center;
+    gap: 6.4rem;
+}
+.grid-two-colum{
+    grid-template-columns: repeat(2 , 1fr);
+}
+
+.hero-content h1{
+    text-align: left;
+    font-size: 54px;
+}
+.hero-content p{
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 2rem 0 4rem 0;
+}
+
+.Hero-image{
+    display: flex;
+}
+img{
+    width: 100%;
+    height: auto;
+    transition: all 0.5s ease-in-out 0.2s;
+}
+img:hover{
+    scale: 0.5;
+    justify-content: center;
+    align-self: center;
+}
+
+.hero-content a:link{
+    background-color: #fff;
+    display: inline-block;
+    padding: 10px 32px;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.hero-content a:hover{
+     background-color:burlywood;
+}
+.container-2{
+    height: 100vh;
+    max-width: 1000px;
+    margin:auto;
+    padding: 15px;
+    display: grid;
+    align-items: center;
+    background-color: #fff;
+    color: black;
+    box-sizing: content-box;
+    border-radius: 20px;
+}
+.grid-two-column{
+   grid-template-columns: repeat(2,1fr);
+}
+
+
+
+
+.content-1 p{
+    font-size: 16px;
+}
+.content-1{
+     padding: 100px 0px;
+    line-height: 40px;
+    text-align: center;
+   list-style-type: none;
+   list-style-position: inside;
+   font-size: 20px;
+}
+
+.content-1 li{
+    list-style: none;
+}
+
+.content-2{
+    margin-left: 25px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Lilita One", sans-serif; ;
+}
+.content-2 li{
+    list-style: none ;
+}
+

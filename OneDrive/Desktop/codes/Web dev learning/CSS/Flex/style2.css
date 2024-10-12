@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Red+Rose:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: "Lilita One", sans-serif;
+}
+
+body{
+    display: grid;
+    place-items: center;
+    background-color: hsl(0, 0%, 96%);
+}
+#main-heading{
+    margin: 3rem 0;
+    text-shadow: 2px 2px 0px grey;
+    font-size:2.5rem ;
+}
+
+
+.flex-container{
+    width: 60%;
+    height: 400px;
+    margin: 0 auto  ;
+    /* padding: 50px 0; */
+    border: 2px solid black;
+    box-shadow: #004d7a;
+    border-radius: 10px;
+    background:  linear-gradient(to right, #514a9d, #24c6dc);
+    color: #fff;
+    display: flex;
+   flex-direction: row;
+   /* justify-content: space-between; */
+   /* align-items: center; */
+   /* justify-content: space-around; */
+   justify-content: center;
+   gap: 10px;
+   flex-wrap: wrap;
+    
+}
+
+.item{
+    width : 80px;
+    height: 80px;
+    border: 1px hidden black;
+    background-image: linear-gradient(to right top, #004d7a, #00bf72, #a8eb12);
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 5% 0px;
+}
+
+/* .item-1{
+    border-top-left-radius: 6px;
+    flex-grow: 1;
+    flex-shrink: 2;
+} */
+

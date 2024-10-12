@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100px;
+    height: auto;
+    padding: 30px;
+    opacity: 0;
+}
+
+li{
+    list-style-type: none;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+input[type='checkbox']{
+    width: 100px;
+}
+
+input:checked{
+    opacity: 1;
+   
+}

@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "ch_1.test",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "java.Main",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "type": "java",
+      "name": "Fisrt",
+      "request": "launch",
+      "mainClass": "Fisrt",
+      "projectName": "codes_5c3ac8d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/pdhav/OneDrive/Desktop/codes/ch_1",
+      "program": "c:/Users/pdhav/OneDrive/Desktop/codes/ch_1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
